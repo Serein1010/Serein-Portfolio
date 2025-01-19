@@ -4,8 +4,8 @@ function Footer() {
   return (
     <section id="footer" className={styles.container}>
       <p>
-        &copy; 2025 Ruijie(Serein) Li. <br />
-        {/* All rights reserved. */}
+        &copy; 2024 Haowei(Alice) Chen. <br />
+        All rights reserved.
       </p>
     </section>
   );

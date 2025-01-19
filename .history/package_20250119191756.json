@@ -1,15 +1,16 @@
 {
   "name": "harris-johnsen-2",
+  "homepage": "https://alicechen216.github.io/Alice-Portfolio/",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Serein1010.github.io/Serein-Portfolio",
+  "homepage": "https://your-username.github.io/Alice-Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
   },
   "dependencies": {
     "@splinetool/react-spline": "^4.0.0",

@@ -51,7 +51,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          Analytical Thinker; Proactive Learner; Detailed-Oriented. 
+          Self-Driven Mathematician; Single Mother; Travel Lover.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
